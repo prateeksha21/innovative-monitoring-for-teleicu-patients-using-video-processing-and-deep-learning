@@ -5,7 +5,7 @@
 
 # Tele-ICU Implementation and Computer Vision Model Training
 
-## Step 1: ICU Equipment Setup
+##  ICU Equipment Setup
 - Completed the setup of all ICU equipment in the tele-ICU room.
 - Installed high-resolution devices equipped with cameras to monitor patients 24/7.
 - The tele-ICU concept involves one person monitoring patients remotely and notifying the doctor or nurse as needed.
