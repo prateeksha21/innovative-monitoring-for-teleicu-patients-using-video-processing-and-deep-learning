@@ -1,8 +1,7 @@
 # innovative-monitoring-for-teleicu-patients-using-video-processing-and-deep-learning
 
 
-![image](https://github.com/user-attachments/assets/2cfee51e-6028-4015-8ae9-b49ca6483285)
-
+<img src="https://github.com/user-attachments/assets/2cfee51e-6028-4015-8ae9-b49ca6483285" alt="image" width="200"/>
 
 
 # Tele-ICU Implementation and Computer Vision Model Training
