@@ -27,13 +27,13 @@
 2. Categorized certain frames into four distinct groups: doctor, nurse, patient, and family member.
 3. Converted the frames to images and annotated these images with bounding boxes using the "AnyLabeling" tool.
 5. Trained a model based on YOLO model version V10.
-<img src="https://drive.google.com/uc?export=view&id=1U8PaJ9EM5cIJpF9DHS6bCzYiQPttCqy0" alt="Tele-ICU Image" width="300" />
+<img src="https://drive.google.com/uc?export=view&id=1U8PaJ9EM5cIJpF9DHS6bCzYiQPttCqy0" alt="Tele-ICU Image" width="800" />
 
 ## Model Validation
 - Validated the results to identify the required classes.
 
 
-<img src="https://drive.google.com/uc?export=view&id=1-YYIA6EQkjM6cY2udIM4EqX90ut5Zz1u" alt="ICU Equipment" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1-YYIA6EQkjM6cY2udIM4EqX90ut5Zz1u" alt="ICU Equipment" width="800"/>
 
 
 
