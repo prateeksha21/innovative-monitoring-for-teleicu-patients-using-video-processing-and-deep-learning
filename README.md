@@ -33,3 +33,7 @@
 - Validated the results to identify the required classes.
 
 
+<img src="https://drive.google.com/uc?export=view&id=1-YYIA6EQkjM6cY2udIM4EqX90ut5Zz1u" alt="ICU Equipment" width="300"/>
+
+
+
